@@ -23,11 +23,11 @@ Finally, here are some results that I got. The code for  the results is in the j
 
 1. True caption: Three child soccer players go for the ball .
 
-![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(9).png?raw=true)
+![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(16).png?raw=true)
 
 2. True caption: A dog wading in the water with a ball in his mouth .
 
-![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(10).png?raw=true)
+![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(15).png?raw=true)
 
 3. True caption: A large white bird flies over water . 
 
@@ -35,7 +35,7 @@ Finally, here are some results that I got. The code for  the results is in the j
 
 4. True caption: small dog running in the grass with a toy in its mouth
 
-![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(12).png?raw=true)
+![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(22).png?raw=true)
 
 5.True caption: The girls is jumping into the air on the beach .
 
