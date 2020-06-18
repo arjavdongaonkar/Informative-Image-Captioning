@@ -47,9 +47,9 @@ In Image Captioning, a CNN is used to extract the features from an image which i
 For creating the model, the captions has to be put in an embedding. Setting the embedding size to ***300***. The image below is the model that I used.
 ![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/model/2020-06-18%20(14).png?raw=true)
 
-After training the model for 50 epoches with batch size of 512, 
+After training the model for 50 epochs with batch size of 512, 
 
-the accuracy achived was ***75%*** and the loss was lowered to ***0.911***.
+the accuracy achieved was ***75%*** and the loss was lowered to ***0.911***.
 
 # Results #
 
