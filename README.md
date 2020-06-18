@@ -13,4 +13,4 @@ testing images-1000
 Each image has 5 captions describing it.
 
 For creating the model, the captions has to be put in an embedding. Setting the embedding size to 300. The image below is the model that I used.
-![alt text]
+![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/model/2020-06-18%20(14).png?raw=true)
