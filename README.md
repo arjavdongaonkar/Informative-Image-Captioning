@@ -51,7 +51,7 @@ Finally, here are some results that I got. The code for  the results is in the j
 
 ![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(15).png?raw=true)
 
-***3. True caption: A large white bird flies over water . ***
+***3. True caption: A large white bird flies over water .***
 
 ![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/results/2020-06-18%20(11).png?raw=true)
 
