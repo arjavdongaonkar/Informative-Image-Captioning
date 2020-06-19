@@ -1,7 +1,7 @@
 # Informative-Image-Captioning
 Image Captioning is the technique in which automatic descriptions are generated for an image.
 
-Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and CNN to generate the captions.
+Image Captioning is the process of generating a textual description of an image. It uses both Natural Language Processing and CNN to generate the captions.
 
 
 The entire code is in the jupyter notebook, so that should hopefully make it easier to understand. 
@@ -28,10 +28,10 @@ The entire code is in the jupyter notebook, so that should hopefully make it eas
 
 **Imp: This code is implemented using Tensorflow-gpu.**
 
-   **You must have a Nvidia GPU and corresponding Drivers.**
+   **You must have an Nvidia GPU and corresponding Drivers.**
 
 # Dataset
-I have used Flickr8k dataset(size 1 GB). MS-COCO and Flickr30K are other datasets that you can use.
+I have used The Flickr8k dataset(size 1 GB). MS-COCO and Flickr30K are other datasets that you can use.
 
 Flickr8K has training images-***6000***
 
@@ -42,9 +42,9 @@ testing images-***1000***
 Each image has ***5*** captions describing it.
 
 # Model
-In Image Captioning, a CNN is used to extract the features from an image which is then along with the captions is fed into an RNN. To extract the features, we use a model trained on Imagenet. I tried out VGG-16, Resnet-50 and InceptionV3. Vgg16 has almost 134 million parameters and its top-5 error on Imagenet is 7.3%. InceptionV3 has 21 million parameters and its top-5 error on Imagenet is 3.46%. Human top-5 error on Imagenet is 5.1%.
+In Image Captioning, a CNN is used to extract the features from an image which is then along with the captions is fed into an RNN. To extract the features, we use a model trained on Imagenet. I tried out VGG-16, Resnet-50, and InceptionV3. Vgg16 has almost 134 million parameters and its top-5 error on Imagenet is 7.3%. InceptionV3 has 21 million parameters and its top-5 error on Imagenet is 3.46%. Human top-5 error on Imagenet is 5.1%.
 
-For creating the model, the captions has to be put in an embedding. Setting the embedding size to ***300***. The image below is the model that I used.
+For creating the model, the captions have to be put in an embedding. Setting the embedding size to ***300***. The image below is the model that I used. .
 ![alt text](https://github.com/arjavdongaonkar/Informative-Image-Captioning/blob/master/model/2020-06-18%20(14).png?raw=true)
 
 After training the model for 50 epochs with batch size of 512, 
